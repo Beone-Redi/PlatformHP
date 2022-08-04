@@ -1,0 +1,7 @@
+Fecha,Peticion,Respuesta
+20210625165306,,"[SystemTraceAuditNumber]=>210625165306 [ResponseCode]=>71 [ErrorMesage]=>REFERENCIA DE SERVICIO INVALIDA 1"
+20210625165547,,"[SystemTraceAuditNumber]=>210625165547 [ResponseCode]=>71 [ErrorMesage]=>REFERENCIA DE SERVICIO INVALIDA 1"
+20210630163704,,"[SystemTraceAuditNumber]=>210630163704 [ResponseCode]=>71 [ErrorMesage]=>REFERENCIA DE SERVICIO INVALIDA 1"
+20211103122513,"[BalanceCompany]=>1 [Clientkey]=>GG2SZ7AJ34WSHOK1KI55Y8 [Card]=>45341000 [Amount]=>60","[SystemTraceAuditNumber]=>211103122513 [ResponseCode]=>01 [ErrorMesage]=>SALDO DE LA EMPRESA INSUFICIENTE"
+20211215131512,"[inCardPlatform]=>1 [clientKey]=>GG2SZ7AJ34WSHOK1KI55Y8 [KeyCompany]=> [KeyBIONE]=>42JY9X0COG1AD61SIE [userCard]=> [binCard]=>5513530012345678","[SystemTraceAuditNumber]=>211215131512 [ResponseCode]=>65 [ErrorMesage]=>EL USUARIO NO ESTA REGISTRADO"
+20220324151002,"[Paymentnotification]=>1 [clientKey]=>GG2SZ7AJ34WSHOK1KI55Y8 [Card]=>04590999 [Amount]=>10.00 [Date]=>2022-03-22 12:44:06","[SystemTraceAuditNumber]=>220324151002 [ResponseCode]=>64 [ErrorMesage]=>PARAMETROS NO COMPLETOS"
